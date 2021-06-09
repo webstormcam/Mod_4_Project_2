@@ -100,6 +100,7 @@ img{
     text-align: center;
     padding: 20px;
     background: #FFF;
+    margin-right: 20px;
     
 }
 
@@ -107,6 +108,8 @@ img{
     color: #FFF;
     background-color: #EF5839;
 }
+
+
 .inlinebaby .button1:hover{
     color: #2e354f;
     background-color: #FFF;
