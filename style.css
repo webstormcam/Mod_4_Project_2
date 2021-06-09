@@ -42,6 +42,7 @@ header h1  {
     width: 620px;
     border: 1px solid #2e354f;
     padding: 40px;
+    border-top: none;
 }
 
 img{
@@ -115,7 +116,12 @@ img{
 }
 
 
- .section1items a .inlinebaby:hover{
+  .section2items p .button1:hover{
+    color: #2e354f;
+    background-color: #FFF;
+}
+
+.section2items p .button1:focus{
     color: #2e354f;
     background-color: #FFF;
 }
