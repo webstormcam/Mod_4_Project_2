@@ -45,7 +45,7 @@ header h1  {
 }
 
 img{
-    width: 580px;
+    width: 574px;
 }
 
 .section1 h2{
@@ -98,19 +98,24 @@ img{
 .section2 .inlinebaby{
     display: inline-block;
     text-align: center;
-    padding: 20px;
+    padding: 15px 30px;
     background: #FFF;
     margin-right: 20px;
     
 }
 
-.button1{
+.section2 .button1{
     color: #FFF;
     background-color: #EF5839;
 }
 
+.section2 .button2{
+    color: #EF5839;
+    background-color: #fff;
+}
 
-.inlinebaby .button1:hover{
+
+.section2 a .inlinebaby .button1:hover{
     color: #2e354f;
     background-color: #FFF;
 }
