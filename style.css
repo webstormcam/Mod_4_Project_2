@@ -27,3 +27,21 @@ header h1  {
     
     
 }
+
+.section1{
+    background-color: #FFF;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    border: 1px solid #2e354f;
+}
+
+.section1items{
+    width: 620px;
+    border: 1px solid pink;
+    padding: 20px;
+}
+
+img{
+    width: 580px;
+}
