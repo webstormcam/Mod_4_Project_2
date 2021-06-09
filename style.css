@@ -4,6 +4,8 @@
 
 body{
     margin: 0px;
+    font-size: 18px;
+    font-family: 'Lato', sans-serif;
 }
 
 h1,h2,p{
@@ -33,7 +35,7 @@ header h1  {
     width: 100%;
     display: flex;
     justify-content: center;
-    border: 1px solid #2e354f;
+  
 }
 
 .section1items{
@@ -45,3 +47,68 @@ header h1  {
 img{
     width: 580px;
 }
+
+.section1 h2{
+    font-size: 24px;
+    color: #EF5839;
+}
+
+.section1 a{
+    color: #EF5839;
+}
+
+.section1 a:hover,a:focus{
+    color: #2e354f;
+}
+
+.section1 strong{
+    color: #2e354f;
+}
+
+.section2{
+   
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    color: #FFF;
+    
+}
+
+.section2items{
+    background-color: #2e354f;
+    width: 620px;
+ 
+    padding: 20px;
+}
+
+.section2 h2{
+    color: #EF5839;
+    font-size: 24px;
+}
+
+
+.section2 a{
+    color: #EF5839;
+}
+
+.section2 a:hover,a:focus{
+    color: aqua;
+}
+
+.section2 .inlinebaby{
+    display: inline-block;
+    text-align: center;
+    padding: 20px;
+    background: #FFF;
+    
+}
+
+.button1{
+    color: #FFF;
+    background-color: #EF5839;
+}
+.inlinebaby .button1:hover{
+    color: #2e354f;
+    background-color: #FFF;
+}
+
