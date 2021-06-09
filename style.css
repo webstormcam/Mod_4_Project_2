@@ -41,11 +41,11 @@ header h1  {
 .section1items{
     width: 620px;
     border: 1px solid pink;
-    padding: 20px;
+    padding: 40px;
 }
 
 img{
-    width: 574px;
+    width: 100%;
 }
 
 .section1 h2{
@@ -78,7 +78,7 @@ img{
     background-color: #2e354f;
     width: 620px;
  
-    padding: 20px;
+    padding: 40px;
 }
 
 .section2 h2{
