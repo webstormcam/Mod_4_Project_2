@@ -115,8 +115,17 @@ img{
 }
 
 
-.section2 a .inlinebaby .button1:hover{
+ .section1items a .inlinebaby:hover{
     color: #2e354f;
     background-color: #FFF;
 }
 
+.section2items .inlinebaby:hover{
+    background-color: #EF5839;
+    color: #FFF;
+}
+
+.section2items .inlinebaby:focus{
+    background-color: #EF5839;
+    color: #FFF;
+}
